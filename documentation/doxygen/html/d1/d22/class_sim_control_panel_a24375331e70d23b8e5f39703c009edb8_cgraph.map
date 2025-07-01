@@ -1,0 +1,18 @@
+<map id="SimControlPanel::on_loadSimulatorButton_clicked" name="SimControlPanel::on_loadSimulatorButton_clicked">
+<area shape="rect" id="node1" title=" " alt="" coords="5,181,152,237"/>
+<area shape="rect" id="node2" href="$dd/da1/class_control_parameter_collection.html#a9a8b467533b42dd661d659b715383729" title="are all the control parameters initialized?" alt="" coords="215,5,395,47"/>
+<area shape="rect" id="node3" href="$dd/da1/class_control_parameter_collection.html#ad53fd1f116f012437c5933d150b630bb" title=" " alt="" coords="215,71,395,112"/>
+<area shape="rect" id="node4" href="$d8/dcd/_sim_control_panel_8cpp.html#a771db95f0473f6530892c739de3c1b83" title=" " alt="" coords="236,137,375,163"/>
+<area shape="rect" id="node5" href="$d8/d86/class_control_parameters.html#a6fc860c65c6484562dfc922cb5806410" title=" " alt="" coords="228,188,383,229"/>
+<area shape="rect" id="node6" href="$d8/d86/class_control_parameters.html#a18eb23794d712e6c56120e644883e4e0" title=" " alt="" coords="231,253,380,295"/>
+<area shape="rect" id="node14" href="$d1/d22/class_sim_control_panel.html#aaef98cf6f4f5e4d82bf33eea3d1c80fc" title=" " alt="" coords="200,319,411,360"/>
+<area shape="rect" id="node16" href="$d8/d86/class_control_parameters.html#af025ae2e93e63f23e77802189bfbc0af" title=" " alt="" coords="237,384,373,425"/>
+<area shape="rect" id="node7" href="$da/d98/class_control_parameter.html#a13b0c1993d779ecd063a2177507f2704" title=" " alt="" coords="467,57,642,99"/>
+<area shape="rect" id="node8" href="$da/d98/class_control_parameter.html#a758ba2c0d184af0c0a19caee656b2af3" title=" " alt="" coords="467,123,642,164"/>
+<area shape="rect" id="node9" href="$da/d98/class_control_parameter.html#abc08f598172aee1e86f51edc67f3fdd8" title=" " alt="" coords="467,188,642,229"/>
+<area shape="rect" id="node10" href="$da/d98/class_control_parameter.html#a09a2be4eb342febe00c60d9eaa735d4e" title=" " alt="" coords="467,253,642,295"/>
+<area shape="rect" id="node11" href="$da/d98/class_control_parameter.html#adc8af6ad0dfb0c862cae6ec8ae8d4afd" title=" " alt="" coords="467,319,642,360"/>
+<area shape="rect" id="node12" href="$dd/da1/class_control_parameter_collection.html#a9e6262aa46992ca879b50d70df030a56" title=" " alt="" coords="465,384,645,425"/>
+<area shape="rect" id="node13" href="$de/df0/utilities_8h.html#a8ee36d7e1f86b7307f0e0aef157237a7" title=" " alt="" coords="699,391,797,418"/>
+<area shape="rect" id="node15" href="$d8/dcd/_sim_control_panel_8cpp.html#a95b841e725f99ed779bdcbf80579cfd5" title=" " alt="" coords="459,450,651,477"/>
+</map>

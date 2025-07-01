@@ -1,0 +1,13 @@
+<map id="SharedMemory.h" name="SharedMemory.h">
+<area shape="rect" id="node1" title="Shared memory utilities for connecting the simulator program to the robot program." alt="" coords="319,5,437,32"/>
+<area shape="rect" id="node2" href="$d1/db1/_simulator_message_8h.html" title="Messages sent to/from the development simulator." alt="" coords="255,80,395,107"/>
+<area shape="rect" id="node3" href="$db/d55/_simulation_bridge_8h.html" title="The SimulationBridge runs a RobotController and connects it to a Simulator, using shared memory...." alt="" coords="153,155,283,181"/>
+<area shape="rect" id="node6" href="$d2/ded/_simulation_8h.html" title="Main simulation class." alt="" coords="385,155,478,181"/>
+<area shape="rect" id="node11" href="$d8/d5e/test__shared_memory_8cpp.html" title="Test the shared memory." alt="" coords="470,80,630,107"/>
+<area shape="rect" id="node4" href="$d3/dfa/main__helper_8cpp.html" title=" " alt="" coords="5,229,121,256"/>
+<area shape="rect" id="node5" href="$dc/da6/_simulation_bridge_8cpp.html" title="The SimulationBridge runs a RobotController and connects it to a Simulator, using shared memory...." alt="" coords="146,229,290,256"/>
+<area shape="rect" id="node7" href="$d7/dab/_sim_control_panel_8h.html" title="QT gui for the simulator." alt="" coords="367,229,496,256"/>
+<area shape="rect" id="node8" href="$df/d0a/main_8cpp.html" title="Main Function for the robot program." alt="" coords="291,304,366,331"/>
+<area shape="rect" id="node10" href="$db/d98/_simulation_8cpp.html" title=" " alt="" coords="521,229,627,256"/>
+<area shape="rect" id="node9" href="$d8/dcd/_sim_control_panel_8cpp.html" title=" " alt="" coords="391,304,533,331"/>
+</map>

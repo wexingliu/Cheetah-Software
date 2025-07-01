@@ -1,0 +1,52 @@
+<map id="SimControlPanel::on_startButton_clicked" name="SimControlPanel::on_startButton_clicked">
+<area shape="rect" id="node1" title=" " alt="" coords="5,290,147,331"/>
+<area shape="rect" id="node2" href="$d8/dcd/_sim_control_panel_8cpp.html#a771db95f0473f6530892c739de3c1b83" title=" " alt="" coords="480,15,619,41"/>
+<area shape="rect" id="node3" href="$d1/d22/class_sim_control_panel.html#a328ded7eaa7983564e655f1b60ede8ce" title=" " alt="" coords="199,65,401,92"/>
+<area shape="rect" id="node4" href="$d1/d22/class_sim_control_panel.html#afe9de8bed4d2d8c0e6825b27abb11571" title=" " alt="" coords="461,66,638,107"/>
+<area shape="rect" id="node8" href="$d6/d05/class_robot_interface.html#a273ece51bef7819a95e7924d2a130976" title=" " alt="" coords="212,167,388,193"/>
+<area shape="rect" id="node9" href="$dd/d14/class_simulation.html#a72521ff0a387ce6a53fec3bd9b209b5e" title=" " alt="" coords="207,217,393,244"/>
+<area shape="rect" id="node10" href="$dd/d14/class_simulation.html#a343e571a3ad423fead44db01758fe54c" title=" " alt="" coords="213,268,387,295"/>
+<area shape="rect" id="node11" href="$d1/d22/class_sim_control_panel.html#a5b70595cb694b786dadb966fd793e9de" title=" " alt="" coords="209,319,391,361"/>
+<area shape="rect" id="node13" href="$d1/d22/class_sim_control_panel.html#aaef98cf6f4f5e4d82bf33eea3d1c80fc" title=" " alt="" coords="195,385,405,426"/>
+<area shape="rect" id="node14" href="$dd/d14/class_simulation.html#ad3b3a11e3a8d6e2119dbcf538802d5cf" title=" " alt="" coords="213,451,387,477"/>
+<area shape="rect" id="node36" href="$dd/d14/class_simulation.html#a8639e8b6997a8e44a65a3ed820dc998d" title=" " alt="" coords="221,981,379,1008"/>
+<area shape="rect" id="node48" href="$de/d6f/class_graphics3_d.html#a322467ce2efdc212fe61c0cd782aa8f2" title=" " alt="" coords="214,1032,386,1059"/>
+<area shape="rect" id="node49" href="$d6/d05/class_robot_interface.html#afb4bc3cd443238371c6b09be6d6e2da7" title=" " alt="" coords="205,1225,395,1252"/>
+<area shape="rect" id="node5" href="$d1/d22/class_sim_control_panel.html#acafffd429091787ff30e7c09219f178b" title=" " alt="" coords="721,13,884,40"/>
+<area shape="rect" id="node6" href="$dd/d14/class_simulation.html#a84d72d5cddf1b6b5dbbe94f83a448958" title=" " alt="" coords="705,64,900,91"/>
+<area shape="rect" id="node7" href="$d1/d22/class_sim_control_panel.html#a9c708c862bdf429cedfe0c744fd425e5" title=" " alt="" coords="711,115,894,141"/>
+<area shape="rect" id="node12" href="$d8/dcd/_sim_control_panel_8cpp.html#a95b841e725f99ed779bdcbf80579cfd5" title=" " alt="" coords="453,299,645,325"/>
+<area shape="rect" id="node15" href="$dd/d14/class_simulation.html#a33e67c5154f5fdbab0d49f23777f4313" title=" " alt="" coords="459,451,640,477"/>
+<area shape="rect" id="node20" href="$dd/d14/class_simulation.html#afae53444e828ca1ce1a8b20d2f9fecc6" title=" " alt="" coords="454,400,645,427"/>
+<area shape="rect" id="node23" href="$dd/d14/class_simulation.html#a20c4e8286bb7880f186e0aa3fe5f103e" title=" " alt="" coords="470,545,629,586"/>
+<area shape="rect" id="node28" href="$da/d9b/namespaceori.html#add867f41c8046a8bba05611e25c8dfcd" title=" " alt="" coords="491,349,607,376"/>
+<area shape="rect" id="node30" href="$dd/d14/class_simulation.html#a5474b99a1471e382b2e6a87adff814dc" title=" " alt="" coords="492,800,607,827"/>
+<area shape="rect" id="node16" href="$d1/d03/class_draw_list.html#a9c2c9531b2de18e928fc8d0d20cfb4c7" title=" " alt="" coords="741,451,864,477"/>
+<area shape="rect" id="node17" href="$d7/d9c/class_dynamics_simulator.html#aa3c1c830bfa1dc1ceed7ff95f2f437c1" title=" " alt="" coords="733,385,873,426"/>
+<area shape="rect" id="node18" href="$de/d6f/class_graphics3_d.html#ac763bf007eb93804b0350340cc6adb80" title=" " alt="" coords="715,501,890,528"/>
+<area shape="rect" id="node19" href="$de/d6f/class_graphics3_d.html#a4c7364a808d197a1632386204c6eb20c" title=" " alt="" coords="708,333,897,360"/>
+<area shape="rect" id="node21" href="$d7/d9c/class_dynamics_simulator.html#a3ae2854bcabc457357f541359a1c2075" title=" " alt="" coords="733,267,873,309"/>
+<area shape="rect" id="node22" href="$d1/d03/class_draw_list.html#a7e274d87788b859c9099a6b398116304" title=" " alt="" coords="736,216,869,243"/>
+<area shape="rect" id="node24" href="$d1/d03/class_draw_list.html#a44c90a51cc8b69fe9fbc6a2958481a4e" title=" " alt="" coords="712,603,893,629"/>
+<area shape="rect" id="node25" href="$d7/d9c/class_dynamics_simulator.html#ac35ba5a30a31d439be9933947e6c806a" title=" " alt="" coords="733,705,873,746"/>
+<area shape="rect" id="node26" href="$d1/d03/class_draw_list.html#a792c90bc3c128f684bd62928b24d2d38" title=" " alt="" coords="723,653,882,680"/>
+<area shape="rect" id="node27" href="$d1/d03/class_draw_list.html#ae3f55365bc72bedb51b835533c515861" title=" " alt="" coords="703,552,902,579"/>
+<area shape="rect" id="node29" href="$da/d9b/namespaceori.html#a537b8d0769c03e4cd8ef2b9a9dc8a760" title=" " alt="" coords="727,165,878,192"/>
+<area shape="rect" id="node31" href="$d7/d9c/class_dynamics_simulator.html#a42c2d681ad50f2364ae4231c7d6fec33" title=" " alt="" coords="960,931,1100,973"/>
+<area shape="rect" id="node32" href="$dd/d14/class_simulation.html#a04559087d745de92a850e2c490d4981d" title=" " alt="" coords="709,989,896,1016"/>
+<area shape="rect" id="node33" href="$dd/d14/class_simulation.html#acfb66e9a45bf3c99747d271418f34bfe" title=" " alt="" coords="711,771,894,797"/>
+<area shape="rect" id="node34" href="$d7/d9c/class_dynamics_simulator.html#a339504f4bd9866588fd73b2fc0fbab0d" title=" " alt="" coords="733,822,873,863"/>
+<area shape="rect" id="node35" href="$d7/d9c/class_dynamics_simulator.html#a84b25acaf7edf23f4f437a96a0d8ba05" title="Initialize simulator with given model." alt="" coords="720,888,885,915"/>
+<area shape="rect" id="node37" href="$dd/d14/class_simulation.html#ab264f11e0f5fc0e601644f1c9e8ced64" title=" " alt="" coords="483,851,616,877"/>
+<area shape="rect" id="node39" href="$d8/d08/class_timer.html#aa42cb0519d30540b49a8c73f8ea81470" title=" " alt="" coords="484,901,615,928"/>
+<area shape="rect" id="node40" href="$de/d6f/class_graphics3_d.html#a03c04c83e3710bf6812a4e7be4d359cf" title=" " alt="" coords="474,952,625,979"/>
+<area shape="rect" id="node41" href="$d8/d86/class_control_parameters.html#a8f614fa95d472922d65efe48238a7afc" title=" " alt="" coords="481,1003,617,1045"/>
+<area shape="rect" id="node42" href="$d8/d08/class_timer.html#a3a8b5272198d029779dc9302a54305a8" title=" " alt="" coords="506,1069,593,1096"/>
+<area shape="rect" id="node43" href="$d8/d86/class_control_parameters.html#af025ae2e93e63f23e77802189bfbc0af" title=" " alt="" coords="481,1121,617,1162"/>
+<area shape="rect" id="node44" href="$dd/d14/class_simulation.html#a6186855f477a8b0add3cf41d5e5a6001" title=" " alt="" coords="459,1187,639,1213"/>
+<area shape="rect" id="node46" href="$de/d6f/class_graphics3_d.html#abd94a301a824da9c921cd5d7bc671e1e" title=" " alt="" coords="469,1237,630,1264"/>
+<area shape="rect" id="node47" href="$de/d6f/class_graphics3_d.html#a04e989eeebcb1478ae61ba26206a8fae" title=" " alt="" coords="471,1288,628,1315"/>
+<area shape="rect" id="node38" href="$dd/d14/class_simulation.html#a31364f2daa9daedef347aaff4001796c" title=" " alt="" coords="693,1040,912,1067"/>
+<area shape="rect" id="node45" href="$d7/d9c/class_dynamics_simulator.html#a3c057386e8d437e8c5dbcae02acf935c" title="Do forward kinematics for feet." alt="" coords="733,1179,873,1221"/>
+<area shape="rect" id="node50" href="$d6/d05/class_robot_interface.html#a37a9d4942ce142779bf6dbdc374e239e" title=" " alt="" coords="460,1339,639,1365"/>
+</map>

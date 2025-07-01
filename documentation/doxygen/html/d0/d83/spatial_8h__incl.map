@@ -1,0 +1,14 @@
+<map id="spatial.h" name="spatial.h">
+<area shape="rect" id="node1" title="Utility functions for manipulating spatial quantities." alt="" coords="141,5,211,32"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,155,64,181"/>
+<area shape="rect" id="node3" title=" " alt="" coords="88,155,160,181"/>
+<area shape="rect" id="node4" title=" " alt="" coords="459,155,541,181"/>
+<area shape="rect" id="node5" href="$d4/dfb/orientation__tools_8h.html" title="Utility functions for 3D rotations." alt="" coords="155,80,315,107"/>
+<area shape="rect" id="node6" href="$de/dda/_math_utilities_8h.html" title="Utility functions for math." alt="" coords="296,155,435,181"/>
+<area shape="rect" id="node8" href="$d9/d8e/cpp_types_8h.html" title=" " alt="" coords="184,155,272,181"/>
+<area shape="rect" id="node7" title=" " alt="" coords="293,229,430,256"/>
+<area shape="rect" id="node9" title=" " alt="" coords="203,229,261,256"/>
+<area shape="rect" id="node10" href="$d0/d99/c_types_8h.html" title="Common types that are only valid in C++." alt="" coords="104,229,179,256"/>
+<area shape="rect" id="node11" title=" " alt="" coords="62,304,130,331"/>
+<area shape="rect" id="node12" title=" " alt="" coords="155,304,219,331"/>
+</map>

@@ -1,0 +1,26 @@
+<map id="Cheetah3.h" name="Cheetah3.h">
+<area shape="rect" id="node1" title="Utility function to build a Cheetah 3 Quadruped object." alt="" coords="317,5,403,32"/>
+<area shape="rect" id="node2" href="$d9/dc8/spatial_8h.html" title="Utility functions for manipulating spatial quantities." alt="" coords="92,304,223,331"/>
+<area shape="rect" id="node9" href="$d9/d8e/cpp_types_8h.html" title=" " alt="" coords="453,453,541,480"/>
+<area shape="rect" id="node14" href="$d5/d9a/_floating_base_model_8h.html" title="Implementation of Rigid Body Floating Base model data structure." alt="" coords="222,155,365,181"/>
+<area shape="rect" id="node18" href="$d3/dc7/_quadruped_8h.html" title="Data structure containing parameters for quadruped robot." alt="" coords="381,80,475,107"/>
+<area shape="rect" id="node3" title=" " alt="" coords="5,453,64,480"/>
+<area shape="rect" id="node4" title=" " alt="" coords="357,453,429,480"/>
+<area shape="rect" id="node5" title=" " alt="" coords="88,453,171,480"/>
+<area shape="rect" id="node6" href="$d4/dfb/orientation__tools_8h.html" title="Utility functions for 3D rotations." alt="" coords="204,379,364,405"/>
+<area shape="rect" id="node7" href="$de/dda/_math_utilities_8h.html" title="Utility functions for math." alt="" coords="195,453,333,480"/>
+<area shape="rect" id="node8" title=" " alt="" coords="247,528,385,555"/>
+<area shape="rect" id="node10" title=" " alt="" coords="776,528,835,555"/>
+<area shape="rect" id="node11" href="$d0/d99/c_types_8h.html" title="Common types that are only valid in C++." alt="" coords="460,528,535,555"/>
+<area shape="rect" id="node12" title=" " alt="" coords="418,603,486,629"/>
+<area shape="rect" id="node13" title=" " alt="" coords="511,603,575,629"/>
+<area shape="rect" id="node15" title=" " alt="" coords="195,229,250,256"/>
+<area shape="rect" id="node16" href="$d4/d7d/_spatial_inertia_8h.html" title="Class representing spatial inertia tensors." alt="" coords="326,229,434,256"/>
+<area shape="rect" id="node17" title=" " alt="" coords="510,229,669,256"/>
+<area shape="rect" id="node19" href="$db/dbb/_actuator_model_8h.html" title="Model of actuator Includes friction, max torque, and motor torque speed curve." alt="" coords="491,155,669,181"/>
+<area shape="rect" id="node20" href="$de/df0/utilities_8h.html" title="Common utility functions." alt="" coords="697,379,818,405"/>
+<area shape="rect" id="node21" title=" " alt="" coords="616,453,691,480"/>
+<area shape="rect" id="node22" title=" " alt="" coords="715,453,762,480"/>
+<area shape="rect" id="node23" title=" " alt="" coords="786,453,851,480"/>
+<area shape="rect" id="node24" title=" " alt="" coords="875,453,986,480"/>
+</map>

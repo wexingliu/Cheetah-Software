@@ -1,0 +1,41 @@
+<map id="SimControlPanel::SimControlPanel" name="SimControlPanel::SimControlPanel">
+<area shape="rect" id="node1" title=" " alt="" coords="5,689,195,731"/>
+<area shape="rect" id="node2" href="$d1/d22/class_sim_control_panel.html#ae5d4d906548222bfc944e826fe2c9261" title=" " alt="" coords="281,136,459,177"/>
+<area shape="rect" id="node3" href="$d8/d86/class_control_parameters.html#ab20496fc55207ace7e7589fd652edcf4" title=" " alt="" coords="267,267,473,308"/>
+<area shape="rect" id="node11" href="$d8/d86/class_control_parameters.html#a6fc860c65c6484562dfc922cb5806410" title=" " alt="" coords="293,332,447,373"/>
+<area shape="rect" id="node12" href="$de/df0/utilities_8h.html#afe1bbec53e0ac370224c4aa5c3433b0e" title=" " alt="" coords="577,463,732,490"/>
+<area shape="rect" id="node13" href="$d1/d22/class_sim_control_panel.html#a429e318fd6abf8601f61271b47ab96e9" title=" " alt="" coords="278,449,462,491"/>
+<area shape="rect" id="node14" href="$d1/d22/class_sim_control_panel.html#a812de766cec157d6f13de667b0a06801" title=" " alt="" coords="243,515,497,542"/>
+<area shape="rect" id="node15" href="$d1/d22/class_sim_control_panel.html#a16fee9e15ea1652c6b7e48024e43bad2" title=" " alt="" coords="247,566,493,593"/>
+<area shape="rect" id="node16" href="$d1/d22/class_sim_control_panel.html#abf296c62664cd90c82bcc42f5af0f2ba" title=" " alt="" coords="249,617,491,643"/>
+<area shape="rect" id="node17" href="$d1/d22/class_sim_control_panel.html#ac8755bc3e689a2fa88ffed119e889250" title=" " alt="" coords="256,667,484,694"/>
+<area shape="rect" id="node18" href="$d1/d22/class_sim_control_panel.html#a40d631e0e492cea7d77f5d333f2d5c2a" title=" " alt="" coords="279,719,461,760"/>
+<area shape="rect" id="node24" href="$d1/d22/class_sim_control_panel.html#a9e073c80a9590d090d8e10109957e45d" title=" " alt="" coords="265,784,475,825"/>
+<area shape="rect" id="node25" href="$d1/d22/class_sim_control_panel.html#a17196b6b81fedd8aa2e5e656dab8af7f" title=" " alt="" coords="277,849,463,891"/>
+<area shape="rect" id="node26" href="$d1/d22/class_sim_control_panel.html#afb843227e32c29ced98236369227c1b1" title=" " alt="" coords="280,915,460,956"/>
+<area shape="rect" id="node27" href="$d8/d86/class_control_parameters.html#a18eb23794d712e6c56120e644883e4e0" title=" " alt="" coords="295,201,445,243"/>
+<area shape="rect" id="node29" href="$d8/d86/class_control_parameters.html#a12b144b3d659080b6e0bfd93569b566e" title=" " alt="" coords="302,980,438,1021"/>
+<area shape="rect" id="node31" href="$d1/d22/class_sim_control_panel.html#aaef98cf6f4f5e4d82bf33eea3d1c80fc" title=" " alt="" coords="265,1045,475,1087"/>
+<area shape="rect" id="node33" href="$d1/d22/class_sim_control_panel.html#ac7d1641c396f8939d615484a11b6ee49" title=" " alt="" coords="281,1111,459,1152"/>
+<area shape="rect" id="node34" href="$d1/d22/class_sim_control_panel.html#a116bda4539962a6174104ea11358c069" title=" " alt="" coords="256,1177,484,1203"/>
+<area shape="rect" id="node35" href="$d1/d22/class_sim_control_panel.html#ac73587c091a83720cca5cd621e51e796" title=" " alt="" coords="268,1228,472,1269"/>
+<area shape="rect" id="node36" href="$d1/d22/class_sim_control_panel.html#afe9de8bed4d2d8c0e6825b27abb11571" title=" " alt="" coords="281,1293,459,1335"/>
+<area shape="rect" id="node4" href="$dd/da1/class_control_parameter_collection.html#a3080ce39e957349dfe87ba7da7d0d8ec" title=" " alt="" coords="565,397,745,439"/>
+<area shape="rect" id="node6" href="$da/d98/class_control_parameter.html#a13b0c1993d779ecd063a2177507f2704" title=" " alt="" coords="567,136,742,177"/>
+<area shape="rect" id="node7" href="$da/d98/class_control_parameter.html#a758ba2c0d184af0c0a19caee656b2af3" title=" " alt="" coords="567,201,742,243"/>
+<area shape="rect" id="node8" href="$da/d98/class_control_parameter.html#abc08f598172aee1e86f51edc67f3fdd8" title=" " alt="" coords="567,267,742,308"/>
+<area shape="rect" id="node9" href="$da/d98/class_control_parameter.html#a09a2be4eb342febe00c60d9eaa735d4e" title=" " alt="" coords="567,332,742,373"/>
+<area shape="rect" id="node10" href="$da/d98/class_control_parameter.html#adc8af6ad0dfb0c862cae6ec8ae8d4afd" title=" " alt="" coords="567,71,742,112"/>
+<area shape="rect" id="node5" href="$de/df0/utilities_8h.html#a8ee36d7e1f86b7307f0e0aef157237a7" title=" " alt="" coords="812,209,911,235"/>
+<area shape="rect" id="node19" href="$da/d3a/class_mini_cheetah_debug.html#a2a1929ffa9a42f8104ca677d2e6c7baa" title=" " alt="" coords="559,748,751,789"/>
+<area shape="rect" id="node22" href="$da/d3a/class_mini_cheetah_debug.html#a24c6770fbc27efff2550cb14d4d537bf" title=" " alt="" coords="545,697,764,723"/>
+<area shape="rect" id="node20" href="$d2/d37/_mini_cheetah_debug_8cpp.html#a49721b7a14927d53f34ec336c513c900" title=" " alt="" coords="831,751,892,778"/>
+<area shape="rect" id="node21" href="$d2/d37/_mini_cheetah_debug_8cpp.html#aec6c13c63a92c7d208509b80437dcfbe" title=" " alt="" coords="819,802,904,829"/>
+<area shape="rect" id="node23" href="$d2/d37/_mini_cheetah_debug_8cpp.html#add8dcd4e2af9eea76dbf7eead61219c7" title=" " alt="" coords="815,697,908,723"/>
+<area shape="rect" id="node28" href="$dd/da1/class_control_parameter_collection.html#a9e6262aa46992ca879b50d70df030a56" title=" " alt="" coords="565,5,745,47"/>
+<area shape="rect" id="node30" href="$dd/da1/class_control_parameter_collection.html#a9a8b467533b42dd661d659b715383729" title="are all the control parameters initialized?" alt="" coords="565,980,745,1021"/>
+<area shape="rect" id="node32" href="$d8/dcd/_sim_control_panel_8cpp.html#a95b841e725f99ed779bdcbf80579cfd5" title=" " alt="" coords="559,1086,751,1113"/>
+<area shape="rect" id="node37" href="$d1/d22/class_sim_control_panel.html#acafffd429091787ff30e7c09219f178b" title=" " alt="" coords="573,1250,736,1277"/>
+<area shape="rect" id="node38" href="$dd/d14/class_simulation.html#a84d72d5cddf1b6b5dbbe94f83a448958" title=" " alt="" coords="557,1301,752,1327"/>
+<area shape="rect" id="node39" href="$d1/d22/class_sim_control_panel.html#a9c708c862bdf429cedfe0c744fd425e5" title=" " alt="" coords="563,1351,746,1378"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="SimControlPanel::on_goHomeButton_clicked" name="SimControlPanel::on_goHomeButton_clicked">
+<area shape="rect" id="node1" title=" " alt="" coords="5,5,169,47"/>
+<area shape="rect" id="node2" href="$dd/d14/class_simulation.html#a8a3a6fa9691b58d5dc614d98b8e4fefb" title=" " alt="" coords="217,13,389,39"/>
+<area shape="rect" id="node3" href="$d7/d9c/class_dynamics_simulator.html#a1b185d90d2b15840ca57f8e2adcf84fb" title=" " alt="" coords="437,5,577,47"/>
+</map>

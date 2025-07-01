@@ -1,0 +1,10 @@
+<map id="SimControlPanel::on_stopButton_clicked" name="SimControlPanel::on_stopButton_clicked">
+<area shape="rect" id="node1" title=" " alt="" coords="5,74,145,115"/>
+<area shape="rect" id="node2" href="$de/d6f/class_graphics3_d.html#a322467ce2efdc212fe61c0cd782aa8f2" title=" " alt="" coords="202,5,374,32"/>
+<area shape="rect" id="node3" href="$dd/d14/class_simulation.html#af6d3f404c8c791cd05c6e5b6246dcbc2" title=" " alt="" coords="231,56,345,83"/>
+<area shape="rect" id="node4" href="$d6/d05/class_robot_interface.html#a66c4458fa8f57b3b8dfe6cf3ad707a76" title=" " alt="" coords="193,107,383,133"/>
+<area shape="rect" id="node5" href="$d1/d22/class_sim_control_panel.html#afe9de8bed4d2d8c0e6825b27abb11571" title=" " alt="" coords="199,158,377,199"/>
+<area shape="rect" id="node6" href="$d1/d22/class_sim_control_panel.html#acafffd429091787ff30e7c09219f178b" title=" " alt="" coords="447,115,609,141"/>
+<area shape="rect" id="node7" href="$dd/d14/class_simulation.html#a84d72d5cddf1b6b5dbbe94f83a448958" title=" " alt="" coords="431,165,625,192"/>
+<area shape="rect" id="node8" href="$d1/d22/class_sim_control_panel.html#a9c708c862bdf429cedfe0c744fd425e5" title=" " alt="" coords="437,216,619,243"/>
+</map>

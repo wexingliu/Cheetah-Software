@@ -1,0 +1,13 @@
+<map id="orientation_tools.h" name="orientation_tools.h">
+<area shape="rect" id="node1" title="Utility functions for 3D rotations." alt="" coords="162,5,289,32"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,80,64,107"/>
+<area shape="rect" id="node3" title=" " alt="" coords="88,80,160,107"/>
+<area shape="rect" id="node4" title=" " alt="" coords="184,80,267,107"/>
+<area shape="rect" id="node5" href="$de/dda/_math_utilities_8h.html" title="Utility functions for math." alt="" coords="291,80,429,107"/>
+<area shape="rect" id="node7" href="$d9/d8e/cpp_types_8h.html" title=" " alt="" coords="453,80,541,107"/>
+<area shape="rect" id="node6" title=" " alt="" coords="298,155,435,181"/>
+<area shape="rect" id="node8" title=" " alt="" coords="464,155,523,181"/>
+<area shape="rect" id="node9" href="$d0/d99/c_types_8h.html" title="Common types that are only valid in C++." alt="" coords="547,155,621,181"/>
+<area shape="rect" id="node10" title=" " alt="" coords="505,229,573,256"/>
+<area shape="rect" id="node11" title=" " alt="" coords="597,229,661,256"/>
+</map>

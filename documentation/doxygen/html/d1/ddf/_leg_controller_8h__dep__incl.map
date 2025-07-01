@@ -1,0 +1,23 @@
+<map id="LegController.h" name="LegController.h">
+<area shape="rect" id="node1" title="Common Leg Control Interface and Leg Control Algorithms." alt="" coords="1240,5,1349,32"/>
+<area shape="rect" id="node2" href="$d8/d87/_state_estimator_container_8h.html" title=" " alt="" coords="792,80,965,107"/>
+<area shape="rect" id="node5" href="$d3/d41/_robot_runner_8h.html" title="Common framework for running robot controllers. This code is a common interface between control code ..." alt="" coords="1071,304,1177,331"/>
+<area shape="rect" id="node8" href="$dc/da6/_simulation_bridge_8cpp.html" title="The SimulationBridge runs a RobotController and connects it to a Simulator, using shared memory...." alt="" coords="1384,453,1528,480"/>
+<area shape="rect" id="node12" href="$d3/dff/_robot_controller_8h.html" title="Parent class of user robot controllers. This is an interface between the control code and the common ..." alt="" coords="939,229,1061,256"/>
+<area shape="rect" id="node18" href="$da/d2d/_leg_controller_8cpp.html" title="Common Leg Control Interface." alt="" coords="1376,80,1499,107"/>
+<area shape="rect" id="node19" href="$d6/dbf/test___leg_controller_8cpp.html" title=" " alt="" coords="1523,80,1675,107"/>
+<area shape="rect" id="node20" href="$d1/df4/_j_pos_initializer_8h.html" title="Controller to initialize the position of the legs on power&#45;on." alt="" coords="1238,80,1351,107"/>
+<area shape="rect" id="node3" href="$db/d94/_contact_estimator_8h.html" title="All Contact Estimation Algorithms." alt="" coords="339,229,471,256"/>
+<area shape="rect" id="node10" href="$d8/dfc/_desired_state_command_8h.html" title="Logic to convert a joystick command into a desired trajectory for the robot." alt="" coords="795,155,962,181"/>
+<area shape="rect" id="node14" href="$dd/df4/_orientation_estimator_8h.html" title="All Orientation Estimation Algorithms." alt="" coords="554,155,705,181"/>
+<area shape="rect" id="node16" href="$df/ddd/_position_velocity_estimator_8h.html" title="All State Estimation Algorithms." alt="" coords="147,155,327,181"/>
+<area shape="rect" id="node4" href="$d1/dfb/_contact_estimator_8cpp.html" title="All Contact Estimation Algorithms." alt="" coords="275,304,421,331"/>
+<area shape="rect" id="node9" href="$db/d28/_robot_runner_8cpp.html" title="Common framework for running robot controllers. This code is a common interface between control code ..." alt="" coords="423,379,545,405"/>
+<area shape="rect" id="node6" href="$db/d55/_simulation_bridge_8h.html" title="The SimulationBridge runs a RobotController and connects it to a Simulator, using shared memory...." alt="" coords="1099,379,1229,405"/>
+<area shape="rect" id="node7" href="$d3/dfa/main__helper_8cpp.html" title=" " alt="" coords="965,453,1081,480"/>
+<area shape="rect" id="node11" href="$d3/d4e/_desired_state_command_8cpp.html" title=" " alt="" coords="735,229,915,256"/>
+<area shape="rect" id="node13" href="$d6/da5/main__helper_8h.html" title="Function which should be called in main to start your robot control code." alt="" coords="971,379,1074,405"/>
+<area shape="rect" id="node15" href="$d8/d63/_orientation_estimator_8cpp.html" title="All Orientation Estimation Algorithms." alt="" coords="547,229,711,256"/>
+<area shape="rect" id="node17" href="$d6/d39/_position_velocity_estimator_8cpp.html" title="All State Estimation Algorithms." alt="" coords="5,229,200,256"/>
+<area shape="rect" id="node21" href="$d0/d85/_j_pos_initializer_8cpp.html" title="Controller to initialize the position of the legs on power&#45;on." alt="" coords="1289,155,1415,181"/>
+</map>

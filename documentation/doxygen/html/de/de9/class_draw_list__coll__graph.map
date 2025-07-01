@@ -1,0 +1,10 @@
+<map id="DrawList" name="DrawList">
+<area shape="rect" id="node1" title=" " alt="" coords="376,535,519,949"/>
+<area shape="rect" id="node2" href="$d3/d60/struct_visualization_data.html" title=" " alt="" coords="386,233,509,472"/>
+<area shape="rect" id="node3" href="$d4/d7b/struct_arrow_visualization.html" title=" " alt="" coords="5,13,135,163"/>
+<area shape="rect" id="node4" href="$df/da6/struct_cone_visualization.html" title=" " alt="" coords="159,27,285,149"/>
+<area shape="rect" id="node5" href="$d5/d38/struct_block_visualization.html" title=" " alt="" coords="309,27,437,149"/>
+<area shape="rect" id="node6" href="$d1/d06/struct_path_visualization.html" title=" " alt="" coords="461,35,583,141"/>
+<area shape="rect" id="node7" href="$d7/d94/struct_sphere_visualization.html" title=" " alt="" coords="607,35,743,141"/>
+<area shape="rect" id="node8" href="$d9/de7/struct_mesh_visualization.html" title=" " alt="" coords="768,5,895,171"/>
+</map>

@@ -1,0 +1,14 @@
+<map id="SimControlPanel::on_robotTable_cellChanged" name="SimControlPanel::on_robotTable_cellChanged">
+<area shape="rect" id="node1" title=" " alt="" coords="5,99,173,141"/>
+<area shape="rect" id="node2" href="$d6/d05/class_robot_interface.html#a273ece51bef7819a95e7924d2a130976" title=" " alt="" coords="243,5,419,32"/>
+<area shape="rect" id="node3" href="$dd/d14/class_simulation.html#a72521ff0a387ce6a53fec3bd9b209b5e" title=" " alt="" coords="237,56,424,83"/>
+<area shape="rect" id="node4" href="$dd/d14/class_simulation.html#a84d72d5cddf1b6b5dbbe94f83a448958" title=" " alt="" coords="233,107,428,133"/>
+<area shape="rect" id="node5" href="$d6/d05/class_robot_interface.html#a3e8ce08dd7aa4f2127563e1eb8317140" title=" " alt="" coords="488,142,671,183"/>
+<area shape="rect" id="node8" href="$dd/d14/class_simulation.html#a31364f2daa9daedef347aaff4001796c" title=" " alt="" coords="221,215,440,241"/>
+<area shape="rect" id="node6" href="$d2/d01/_control_parameters_8h.html#a845e4adacbcbd157527c891bb3fa4b74" title=" " alt="" coords="719,169,921,196"/>
+<area shape="rect" id="node7" href="$de/df0/utilities_8h.html#acb4bfd4bd21d2af1b655d5039281ec3b" title=" " alt="" coords="969,169,1084,196"/>
+<area shape="rect" id="node9" href="$dd/d14/class_simulation.html#aa8bb72cad399da9c09dc8396bd23b2df" title=" " alt="" coords="495,207,663,249"/>
+<area shape="rect" id="node10" href="$d6/d6d/struct_control_parameter_request.html#a8652e8975cfc2b0ea04e573ea7eb15e4" title=" " alt="" coords="494,273,665,314"/>
+<area shape="rect" id="node11" href="$d6/de9/_control_parameter_interface_8h.html#aec18dbc0e1e7ea54b4204c75221178af" title=" " alt="" coords="723,239,917,281"/>
+<area shape="rect" id="node12" href="$d2/d01/_control_parameters_8h.html#a39a31ac35492a7e98110f7301430b5fe" title=" " alt="" coords="730,305,910,346"/>
+</map>

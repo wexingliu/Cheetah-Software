@@ -1,0 +1,18 @@
+<map id="FloatingBaseModel.h" name="FloatingBaseModel.h">
+<area shape="rect" id="node1" title="Implementation of Rigid Body Floating Base model data structure." alt="" coords="212,5,355,32"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,80,60,107"/>
+<area shape="rect" id="node3" title=" " alt="" coords="154,379,213,405"/>
+<area shape="rect" id="node4" href="$d4/dfb/orientation__tools_8h.html" title="Utility functions for 3D rotations." alt="" coords="338,229,498,256"/>
+<area shape="rect" id="node14" href="$d4/d7d/_spatial_inertia_8h.html" title="Class representing spatial inertia tensors." alt="" coords="184,80,292,107"/>
+<area shape="rect" id="node15" href="$d9/dc8/spatial_8h.html" title="Utility functions for manipulating spatial quantities." alt="" coords="259,155,329,181"/>
+<area shape="rect" id="node16" title=" " alt="" coords="456,80,615,107"/>
+<area shape="rect" id="node5" title=" " alt="" coords="231,304,290,331"/>
+<area shape="rect" id="node6" title=" " alt="" coords="135,304,207,331"/>
+<area shape="rect" id="node7" title=" " alt="" coords="589,304,671,331"/>
+<area shape="rect" id="node8" href="$de/dda/_math_utilities_8h.html" title="Utility functions for math." alt="" coords="426,304,565,331"/>
+<area shape="rect" id="node10" href="$d9/d8e/cpp_types_8h.html" title=" " alt="" coords="314,304,402,331"/>
+<area shape="rect" id="node9" title=" " alt="" coords="423,379,560,405"/>
+<area shape="rect" id="node11" href="$d0/d99/c_types_8h.html" title="Common types that are only valid in C++." alt="" coords="321,379,395,405"/>
+<area shape="rect" id="node12" title=" " alt="" coords="279,453,347,480"/>
+<area shape="rect" id="node13" title=" " alt="" coords="371,453,435,480"/>
+</map>

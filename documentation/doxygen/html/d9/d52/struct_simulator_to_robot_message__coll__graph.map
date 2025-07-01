@@ -1,0 +1,11 @@
+<map id="SimulatorToRobotMessage" name="SimulatorToRobotMessage">
+<area shape="rect" id="node1" title=" " alt="" coords="379,564,558,656"/>
+<area shape="rect" id="node2" href="$d5/d09/struct_spi_data.html" title=" " alt="" coords="5,263,137,443"/>
+<area shape="rect" id="node3" href="$df/d06/struct_vector_nav_data.html" title=" " alt="" coords="162,299,277,406"/>
+<area shape="rect" id="node4" href="$d2/d3e/struct_cheater_state.html" title=" " alt="" coords="301,285,460,421"/>
+<area shape="rect" id="node5" href="$d2/d3e/struct_cheater_state.html" title=" " alt="" coords="317,5,445,141"/>
+<area shape="rect" id="node6" href="$d6/d6d/struct_control_parameter_request.html" title=" " alt="" coords="485,292,655,413"/>
+<area shape="rect" id="node7" href="$df/df2/union_control_parameter_value.html" title=" " alt="" coords="492,5,648,141"/>
+<area shape="rect" id="node8" href="$de/de1/struct_ti_board_data.html" title=" " alt="" coords="679,248,813,457"/>
+<area shape="rect" id="node9" href="$d4/d51/struct_gamepad_command.html" title=" " alt="" coords="837,204,993,501"/>
+</map>

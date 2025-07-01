@@ -1,0 +1,7 @@
+<map id="SimControlPanel::on_kickButton_clicked" name="SimControlPanel::on_kickButton_clicked">
+<area shape="rect" id="node1" title=" " alt="" coords="5,39,144,80"/>
+<area shape="rect" id="node2" href="$dd/d14/class_simulation.html#ac3fbb9bb368d8a3ed14ca6bf9a1c95d1" title=" " alt="" coords="192,17,364,43"/>
+<area shape="rect" id="node4" href="$dd/d14/class_simulation.html#a8a3a6fa9691b58d5dc614d98b8e4fefb" title=" " alt="" coords="192,71,364,98"/>
+<area shape="rect" id="node3" href="$d7/d9c/class_dynamics_simulator.html#a42c2d681ad50f2364ae4231c7d6fec33" title=" " alt="" coords="412,5,552,47"/>
+<area shape="rect" id="node5" href="$d7/d9c/class_dynamics_simulator.html#a1b185d90d2b15840ca57f8e2adcf84fb" title=" " alt="" coords="412,71,552,112"/>
+</map>
